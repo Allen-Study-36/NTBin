@@ -13,6 +13,11 @@
 		871B2E812CD23E4E00D31DB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 871B2E7F2CD23E4E00D31DB9 /* Main.storyboard */; };
 		871B2E832CD23E4F00D31DB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 871B2E822CD23E4F00D31DB9 /* Assets.xcassets */; };
 		871B2E862CD23E4F00D31DB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 871B2E842CD23E4F00D31DB9 /* LaunchScreen.storyboard */; };
+		871B2E942CD2456C00D31DB9 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871B2E932CD2456C00D31DB9 /* FirstViewController.swift */; };
+		871B2E962CD2457800D31DB9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871B2E952CD2457800D31DB9 /* SecondViewController.swift */; };
+		871B2E982CD2458200D31DB9 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871B2E972CD2458200D31DB9 /* ThirdViewController.swift */; };
+		871B2E9A2CD2459200D31DB9 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871B2E992CD2459200D31DB9 /* FourthViewController.swift */; };
+		871B2E9C2CD2459D00D31DB9 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871B2E9B2CD2459D00D31DB9 /* FifthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		871B2E822CD23E4F00D31DB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		871B2E852CD23E4F00D31DB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		871B2E872CD23E4F00D31DB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		871B2E932CD2456C00D31DB9 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		871B2E952CD2457800D31DB9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		871B2E972CD2458200D31DB9 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		871B2E992CD2459200D31DB9 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		871B2E9B2CD2459D00D31DB9 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +73,11 @@
 				871B2E822CD23E4F00D31DB9 /* Assets.xcassets */,
 				871B2E842CD23E4F00D31DB9 /* LaunchScreen.storyboard */,
 				871B2E872CD23E4F00D31DB9 /* Info.plist */,
+				871B2E932CD2456C00D31DB9 /* FirstViewController.swift */,
+				871B2E952CD2457800D31DB9 /* SecondViewController.swift */,
+				871B2E972CD2458200D31DB9 /* ThirdViewController.swift */,
+				871B2E992CD2459200D31DB9 /* FourthViewController.swift */,
+				871B2E9B2CD2459D00D31DB9 /* FifthViewController.swift */,
 			);
 			path = NTBin;
 			sourceTree = "<group>";
@@ -141,6 +156,11 @@
 				871B2E7E2CD23E4E00D31DB9 /* ViewController.swift in Sources */,
 				871B2E7A2CD23E4E00D31DB9 /* AppDelegate.swift in Sources */,
 				871B2E7C2CD23E4E00D31DB9 /* SceneDelegate.swift in Sources */,
+				871B2E9A2CD2459200D31DB9 /* FourthViewController.swift in Sources */,
+				871B2E9C2CD2459D00D31DB9 /* FifthViewController.swift in Sources */,
+				871B2E962CD2457800D31DB9 /* SecondViewController.swift in Sources */,
+				871B2E982CD2458200D31DB9 /* ThirdViewController.swift in Sources */,
+				871B2E942CD2456C00D31DB9 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
